@@ -1,0 +1,10 @@
+Package: be.rud0lf77.appcent
+Name: AppCent
+Depends: mobilesubstrate, preferenceloader
+Version: 1.0
+Depiction: http://cydia.rud0lf77.be/info.php?id=be.rud0lf77.appcent
+Architecture: iphoneos-arm
+Description: Download Progress in % below App Icon
+Maintainer: Rudolf Lichtner (@rud0lf77) <rud0lf77@me.com>
+Author: Rudolf Lichtner (@rud0lf77) <rud0lf77@me.com>
+Section: Tweaks
